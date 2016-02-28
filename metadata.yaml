@@ -1,0 +1,34 @@
+_repo: The-Lion-and-the-Mouse-a-Story-of-an-American-Life_5119
+creator:
+  authors:
+  - agent_name: Klein, Charles
+    birthdate: 1867
+    deathdate: 1915
+    gutenberg_agent_id: '1703'
+    url: http://www.gutenberg.org/2009/agents/1703
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Klein
+  - agent_name: Hornblow, Arthur
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '6570'
+    url: http://www.gutenberg.org/2009/agents/6570
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Supreme Court justices -- Fiction'
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 1865-1918 -- Fiction'
+- !lcsh 'Women authors -- Fiction'
+title: The Lion and the Mouse; a Story of an American Life
+url: http://www.gutenberg.org/ebooks/5119
