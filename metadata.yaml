@@ -1,5 +1,8 @@
 _repo: The-Lion-and-the-Mouse-a-Story-of-an-American-Life_5119
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Klein, Charles
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '6570'
     url: http://www.gutenberg.org/2009/agents/6570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5119#The-Lion-and-the-Mouse-a-Story-of-an-American-Life
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
