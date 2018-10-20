@@ -1,5 +1,5 @@
 _repo: The-Lion-and-the-Mouse-a-Story-of-an-American-Life_5119
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,5 +36,6 @@ subjects:
 - !lcsh 'Capitalists and financiers -- Fiction'
 - !lcsh 'United States -- Social life and customs -- 1865-1918 -- Fiction'
 - !lcsh 'Women authors -- Fiction'
+- GITenberg
 title: The Lion and the Mouse; a Story of an American Life
 url: http://www.gutenberg.org/ebooks/5119
